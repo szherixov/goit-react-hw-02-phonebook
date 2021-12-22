@@ -1,0 +1,48 @@
+.button {
+    margin-bottom: 20px;
+    width: 200px;
+    height: 40px;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 25px;
+    transition: 250ms linear;
+  }
+  .buttonContainer{
+      display: flex;
+      justify-content: center;
+  }
+  .form {
+
+    border: 2px solid white;
+    height: auto;
+    color: white;
+    display: block;
+    border-radius: 4px;
+    align-items: center;
+  }
+
+  .inputContainer{
+      display: flex;
+      justify-content: center;
+      
+  }
+
+  .label {
+    
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+  }
+  .message {
+    font-size: 25px;
+  }
+  
+  .button:hover {
+    background-color: yellow;
+  }
+  .input {
+    border-radius: 4px;
+    height: 25px;
+    min-width: 200px;
+    font-size: 20px;
+  }

@@ -1,0 +1,13 @@
+.title {
+    font-size: 42px;
+    color: rgb(49, 26, 26);
+    font-weight: 400;
+    margin: 30px 0;
+  }
+  .input {
+    border-radius: 4px;
+    height: 25px;
+    min-width: 200px;
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
